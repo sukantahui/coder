@@ -1,0 +1,27 @@
+[
+  {
+    "topic": "Object Oriented",
+    "description": "In Java, everything is an Object. Java can be easily extended since it is based on the Object model."
+  },
+  {
+    "topic": "Platform Independent",
+    "description": "Unlike many other programming languages including C and C++, when Java is compiled, it is not compiled into platform specific machine, rather into platform independent byte code. This byte code is distributed over the web and interpreted by the Virtual Machine (JVM) on whichever platform it is being run on."
+  },
+  {
+    "topic": "Simple ",
+    "description": "Java is designed to be easy to learn. If you understand the basic concept of OOP Java, it would be easy to master."
+  },
+  {
+    "topic": "Ramesh",
+    "description": "Hackensack"
+  },
+  {
+    "topic": "Ramesh",
+    "description": "Hackensack"
+  },
+  {
+    "topic": "Ramesh",
+    "description": "Hackensack"
+  }
+
+]
